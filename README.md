@@ -6,6 +6,7 @@ Pry
 [![Gem Version](https://badge.fury.io/rb/pry.svg)](https://badge.fury.io/rb/pry)
 [![Documentation Status](https://inch-ci.org/github/pry/pry.svg?branch=master)](https://inch-ci.org/github/pry/pry)
 [![Downloads](https://img.shields.io/gem/dt/pry.svg?style=flat)](https://rubygems.org/gems/pry)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpry.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpry?ref=badge_shield)
 
 ![Pry logo](https://www.dropbox.com/s/zp8o63kquby2rln/pry_logo_350.png?raw=1)
 
@@ -450,3 +451,7 @@ Contributors
 Pry is primarily the work of [John Mair (banisterfiend)](https://github.com/banister), for full list
 of contributors see the
 [contributors graph](https://github.com/pry/pry/graphs/contributors).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpry.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNinjaMadMad%2Fpry?ref=badge_large)
